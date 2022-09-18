@@ -1,5 +1,5 @@
 # python_assignments
-Python assignments for Mr. Arpit Tiwari at Jio Institute
+Python assignments for Mr. Arpit Tiwari at Jio Institute during 2022-23
 
 
 Day#1 (Wednesday 14th Sep 2022)
